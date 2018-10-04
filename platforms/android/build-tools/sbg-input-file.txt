@@ -1,0 +1,1 @@
+/home/admin/Project/wRealu24.pl/platforms/android/app/src/main/assets/app

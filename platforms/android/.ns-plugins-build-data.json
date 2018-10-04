@@ -1,0 +1,66 @@
+{
+	"kinvey-nativescript-sdk": {
+		"/home/admin/Project/wRealu24.pl/node_modules/kinvey-nativescript-sdk/platforms/android/AndroidManifest.xml": "2ca728ba4f137547549b39c946e552e6f25cae0b",
+		"/home/admin/Project/wRealu24.pl/node_modules/kinvey-nativescript-sdk/platforms/android/include.gradle": "0c9edbafc8399836bf4cc29f1f8e77f29418db10"
+	},
+	"nativescript-background-http": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-background-http/platforms/android/include.gradle": "4fc0f9ce06df5336df8da8c7b7a2ce2c43356a93",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-background-http/platforms/android/nativescript_background_http.aar": "96ffe82bcff4a165f277840f78069b3081e73e0c"
+	},
+	"nativescript-camera": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-camera/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-camera/platforms/android/nativescript_camera.aar": "cd1b1fa3acf5d31146353f6127fdea77cc64df61"
+	},
+	"nativescript-fresco": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-fresco/platforms/android/include.gradle": "9658ee8a927be25246f356bb556b04b08a752099"
+	},
+	"nativescript-geolocation": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-geolocation/platforms/android/include.gradle": "b4197a7b5556ea5de03f08097c27f72ec4d64c76",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-geolocation/platforms/android/nativescript_geolocation.aar": "8d2a9d9e9492fb3a2321eb2343881330be4de2e3"
+	},
+	"nativescript-imagepicker": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-imagepicker/platforms/android/README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-imagepicker/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02"
+	},
+	"nativescript-social-share": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-social-share/platforms/android/nativescript_social_share.aar": "8bbff8023553533233bf22e3773a2dc20ab01b14"
+	},
+	"nativescript-ui-autocomplete": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-autocomplete/platforms/android/include.gradle": "7d12674b75646a40140b8e29d4591a5402e3e3ce",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-autocomplete/platforms/android/typings/autocomplete.d.ts": "93d69d2fe72e452c3a0f90d95595fb50f85384cf",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-autocomplete/platforms/android/TNSAutoComplete-release.aar": "9f870dd11061cf40299a973f185a3d982cea50bd"
+	},
+	"nativescript-ui-calendar": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-calendar/platforms/android/typings/calendar.d.ts": "6157f2e6265baf487e4061a1cda386c02ddc5dda",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-calendar/platforms/android/TNSCalendar-release.aar": "2a42009f432dc87e5ae35e2dc9fb49d123256b5c"
+	},
+	"nativescript-ui-chart": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-chart/platforms/android/include.gradle": "7d12674b75646a40140b8e29d4591a5402e3e3ce",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-chart/platforms/android/typings/chart.d.ts": "93abd5bc0e8b206dc5e4a9d21573c7bd6db61e2d",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-chart/platforms/android/TNSChart-release.aar": "27f9d2068f1ef6a9811e672d134394006023b438"
+	},
+	"nativescript-ui-dataform": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-dataform/platforms/android/typings/dataform.d.ts": "95de40eae69bd4ee105901a44744e1fcfcde1a5a",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-dataform/platforms/android/TNSDataForm-release.aar": "c3cc134da06901136a74277c93be65a5e2549c67"
+	},
+	"nativescript-ui-gauge": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-gauge/platforms/android/TNSGauge-release.aar": "d7d8c930a5dece780cb52e26af2b3397242f9e1b",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-gauge/platforms/android/typings/gauge.d.ts": "ae7cf8821f8c4e0d042b36e74ddadf7221d75797"
+	},
+	"nativescript-ui-listview": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-listview/platforms/android/include.gradle": "7d12674b75646a40140b8e29d4591a5402e3e3ce",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-listview/platforms/android/typings/listview.d.ts": "e5cb786b04a720aa5f9069bdc019f91a5fd2769a",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-listview/platforms/android/TNSListView-release.aar": "93e2164c9166cced6f4c8fd4167c523da321dd50"
+	},
+	"nativescript-ui-sidedrawer": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-sidedrawer/platforms/android/TNSSideDrawer-release.aar": "014feca9bb77a2b9bb64edb4fdc8a0fbfab4abed",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-sidedrawer/platforms/android/typings/sidedrawer.d.ts": "91ef64e6d1864556d27ded671283ee4a05b7c4eb"
+	},
+	"nativescript-ui-core": {
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-core/platforms/android/TNSCore-release.aar": "cce16a86c2a6f56ca7243ed8db86b004ecb0016e",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-ui-core/platforms/android/typings/core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2"
+	},
+	"tns-core-modules-widgets": {
+		"/home/admin/Project/wRealu24.pl/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "402875596039fd16198e0e4adbb85e44a4ff148d"
+	}
+}

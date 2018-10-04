@@ -6,13 +6,10 @@
     "nativescript": {
         "id": "org.nativescript.blankng",
         "tns-android": {
-            "version": "4.2.0"
+            "version": "5.0.0-2018-09-28-195532-01"
         },
         "tns-ios": {
             "version": "4.2.0"
-        },
-        "playground": {
-            "id": "aUM_Qfhf200sX3yTUju50"
         }
     },
     "dependencies": {
@@ -25,7 +22,6 @@
         "@angular/platform-browser": "6.1.1",
         "@angular/platform-browser-dynamic": "6.1.1",
         "@angular/router": "6.1.1",
-        "kinvey-nativescript-sdk": "3.11.7",
         "nativescript-accelerometer": "2.0.1",
         "nativescript-angular": "6.1.0",
         "nativescript-background-http": "3.3.0",
