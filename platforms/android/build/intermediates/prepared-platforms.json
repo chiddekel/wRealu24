@@ -8,7 +8,6 @@
     "@angular/platform-browser": true,
     "@angular/platform-browser-dynamic": true,
     "@angular/router": true,
-    "kinvey-nativescript-sdk": true,
     "nativescript-accelerometer": true,
     "nativescript-angular": true,
     "nativescript-background-http": true,
@@ -32,7 +31,6 @@
     "tns-core-modules": true,
     "zone.js": true,
     "tslib": true,
-    "nativescript-sqlite": true,
     "nativescript-permissions": true,
     "nativescript-ui-core": true,
     "tns-core-modules-widgets": true

@@ -1,8 +1,4 @@
 {
-	"kinvey-nativescript-sdk": {
-		"/home/admin/Project/wRealu24.pl/node_modules/kinvey-nativescript-sdk/platforms/android/AndroidManifest.xml": "2ca728ba4f137547549b39c946e552e6f25cae0b",
-		"/home/admin/Project/wRealu24.pl/node_modules/kinvey-nativescript-sdk/platforms/android/include.gradle": "0c9edbafc8399836bf4cc29f1f8e77f29418db10"
-	},
 	"nativescript-background-http": {
 		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-background-http/platforms/android/include.gradle": "4fc0f9ce06df5336df8da8c7b7a2ce2c43356a93",
 		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-background-http/platforms/android/nativescript_background_http.aar": "96ffe82bcff4a165f277840f78069b3081e73e0c"
@@ -19,8 +15,8 @@
 		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-geolocation/platforms/android/nativescript_geolocation.aar": "8d2a9d9e9492fb3a2321eb2343881330be4de2e3"
 	},
 	"nativescript-imagepicker": {
-		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-imagepicker/platforms/android/README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f",
-		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-imagepicker/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02"
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-imagepicker/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02",
+		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-imagepicker/platforms/android/README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f"
 	},
 	"nativescript-social-share": {
 		"/home/admin/Project/wRealu24.pl/node_modules/nativescript-social-share/platforms/android/nativescript_social_share.aar": "8bbff8023553533233bf22e3773a2dc20ab01b14"

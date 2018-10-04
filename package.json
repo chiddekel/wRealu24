@@ -5,11 +5,11 @@
     "repository": "<fill-your-repository-here>",
     "nativescript": {
         "id": "org.nativescript.blankng",
-        "tns-android": {
-            "version": "5.0.0-2018-09-28-195532-01"
-        },
         "tns-ios": {
             "version": "4.2.0"
+        },
+        "tns-android": {
+            "version": "5.0.0-2018-09-28-195532-01"
         }
     },
     "dependencies": {
